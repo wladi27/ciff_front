@@ -19,7 +19,3 @@ yarn
 npm dev
 #
 yarn dev
-```
-
->
-<img width="300" alt="Captura de Pantalla 2022-11-01 a la(s) 13 20 26" src="https://user-images.githubusercontent.com/50961956/199618716-3b63896a-0812-4d8b-8de4-3a8a2f6bc54f.png">
